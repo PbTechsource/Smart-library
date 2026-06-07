@@ -1,2 +1,24 @@
-# Smart library
-این برنامه امکان افزودن، جستجو، نمایش و مدیریت کتاب‌ها را فراهم می‌کند. اطلاعات کتاب‌ها در فایل ذخیره شده و تمامی عملیات در فایل log.txt ثبت می‌شوند. همچنین قابلیت دریافت اطلاعات کتاب‌ها از اینترنت، جستجو با عبارات منظم (Regex) و پردازش داده‌های متنی را دارد. در این پروژه از کتابخانه‌های os، random، datetime، requests و BeautifulSoup استفاده شده است.
+# Smart Library System
+
+A Python-based library management system developed as a final course project.
+
+## Features
+- Add, edit, and manage books
+- Search books by different criteria
+- Store and retrieve data from files
+- Activity logging in `log.txt`
+- Fetch book information from online sources
+- Text processing using Regular Expressions (Regex)
+- Modular project structure with separate panels and functions
+
+## Technologies
+- Python
+- os
+- random
+- datetime
+- requests
+- BeautifulSoup
+
+## Data Source
+Book information can be collected from:
+https://en.wikipedia.org/wiki/List_of_best-selling_books
